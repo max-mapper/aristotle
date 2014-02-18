@@ -1,0 +1,12 @@
+{
+  "name": "aristotle",
+  "version": "4503.0.0",
+  "description": "turns your browsers cursor into aristotle the cat if you enter the konami code",
+  "main": "index.js",
+  "author": "max ogden",
+  "license": "BSD",
+  "dependencies": {
+    "insert-css": "~0.1.1",
+    "konami": "~1.3.3"
+  }
+}
