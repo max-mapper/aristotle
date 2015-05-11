@@ -1,6 +1,6 @@
 {
   "name": "aristotle",
-  "version": "4503.0.0",
+  "version": "4503.0.1",
   "description": "turns your browsers cursor into aristotle the cat if you enter the konami code",
   "main": "index.js",
   "author": "max ogden",
