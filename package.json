@@ -5,6 +5,7 @@
   "main": "index.js",
   "author": "max ogden",
   "license": "BSD",
+  "repository": "https://github.com/maxogden/aristotle",
   "dependencies": {
     "insert-css": "~0.1.1",
     "konami": "~1.3.3"
